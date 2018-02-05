@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value="meow_weather"/>
+
+    <verson value="1.0"/>
+
+    <list>
+        <mapping class="com.liusu.meowweather.db.Province"/>
+        <mapping class="com.liusu.meowweather.db.City"/>
+        <mapping class="com.liusu.meowweather.db.County"/>
+    </list>
+</litepal>
